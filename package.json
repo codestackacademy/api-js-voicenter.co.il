@@ -1,12 +1,20 @@
 {
   "name": "@codestack/api-js-voicenter.co.il",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://www.voicenter.co.il/Downloads/API/revisions/revision3.2/API-documentation-revision3.2.pdf",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestackacademy/api-js-voicenter.co.il.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codestackacademy/api-js-voicenter.co.il/issues"
+  },
+  "homepage": "https://github.com/codestackacademy/api-js-voicenter.co.il#readme"
 }
